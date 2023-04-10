@@ -1,0 +1,2 @@
+C:\Users\Inbar\Desktop\BeautyMe\BeautyMeWEB\obj\Release\BeautyMeWEB.csproj.AssemblyReference.cache
+C:\Users\Inbar\Desktop\BeautyMe\BeautyMeWEB\obj\Release\BeautyMeWEB.csproj.CoreCompileInputs.cache
